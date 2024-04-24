@@ -1,1 +1,1 @@
-# my-first-git-project
+# My first ever project with git
